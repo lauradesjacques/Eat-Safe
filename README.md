@@ -7,9 +7,8 @@ Application iOS
 
 Theme : Alimentation 
 
-https://github.com/lauradesjacques/Eat-Safe/blob/main/challenges.png
-
-https://github.com/lauradesjacques/Eat-Safe/blob/main/demoeatsafe_icYY732x.mov
-
 ![Screenshot](challenges.png) 
-![Video](demoeatsafe_icYY732x.mov) 
+
+https://user-images.githubusercontent.com/79095747/120070423-c949aa00-c08a-11eb-9947-071e3038bfb0.mov
+
+
