@@ -10,3 +10,4 @@ Theme : Alimentation
 https://github.com/lauradesjacques/Eat-Safe/blob/main/challenges.png
 
 https://github.com/lauradesjacques/Eat-Safe/blob/main/demoeatsafe_icYY732x.mov
+![Screenshot](challenges.png.png) 
