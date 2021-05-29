@@ -12,4 +12,4 @@ https://github.com/lauradesjacques/Eat-Safe/blob/main/challenges.png
 https://github.com/lauradesjacques/Eat-Safe/blob/main/demoeatsafe_icYY732x.mov
 
 ![Screenshot](challenges.png) 
-![Screenshot](demoeatsafe_icYY732x.mov) 
+![Video](demoeatsafe_icYY732x.mov) 
