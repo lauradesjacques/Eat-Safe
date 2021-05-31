@@ -3,6 +3,7 @@ Apple Foundation Program
 Novembre 2020 
 
 Réalisation d'un prototype d'Application mobile iOS, sur le theme de l'alimentation.
+L'idée de cette application est des challenges pour réaliser des recettes avec differents fruits et légumes pour sensibiliser les utilisateurs à avoir de meilleures habitudes alimentaires. Pour garder sa motivation et partager ses progrés l'utilisateur peut creer des posts avec la photo et le détail de la recette du challenge.
 
 Equipe : Yoko, Heitor, Maïkel, Juanjo, Laura
 
